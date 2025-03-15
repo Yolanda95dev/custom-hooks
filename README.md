@@ -1,2 +1,3 @@
-# custom-hooks
-Custom Hooks DevTalles
+# Custom Hooks
+Repositorio de Custom Hooks
+
